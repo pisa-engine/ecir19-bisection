@@ -23,7 +23,7 @@ here as a submodule. We also use [Indri](https://github.com/lgrz/indri) to index
 
 Acknowledgements
 ----------------
-The original paper can be found here: [Compressing Graphs and Indexes with Recursive Graph Bisection](http://www.kdd.org/kdd2016/papers/files/rpp0883-dhulipalaAemb.pdf), (Proceedings Link)[https://dl.acm.org/citation.cfm?id=2939862]
+The original paper can be found here: [Compressing Graphs and Indexes with Recursive Graph Bisection](http://www.kdd.org/kdd2016/papers/files/rpp0883-dhulipalaAemb.pdf), [ACM Proceedings](https://dl.acm.org/citation.cfm?id=2939862)
 
 ```
 @inproceedings{dk+16-kdd,
