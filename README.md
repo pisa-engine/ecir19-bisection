@@ -5,7 +5,7 @@ Welcome. This repository contains the required data to reproduce the experiments
 the following paper. We request you cite this work if you decide to use our algorithm
 for your own papers.
 
-Joel. Mackenzie, Antonio Mallia, Matthias Petri, J. Shane Culpepper, and Torsten Suel:
+Joel Mackenzie, Antonio Mallia, Matthias Petri, J. Shane Culpepper, and Torsten Suel:
 **Compressing Inverted Indexes with Recursive Graph Bisection: A Reproducibility Study.**
 To appear in ECIR, 2019.
 
