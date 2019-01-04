@@ -1,0 +1,14 @@
+*.tar
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.idx
+*.findex
+*.docs
+*.freqs
+*.docids
+*.lexicon
+*.sizes
+tools/indri_to_ds2i/indri_to_ds2i
+tools/minhash/minhash
+external/*

@@ -1,0 +1,11 @@
+<parameters>
+<memory>256G</memory>
+<index>GOV2</index>
+<threads>32</threads>
+<stemmer><name>krovetz</name></stemmer>
+<metadata><field>docno</field></metadata>
+<corpus>
+<path>/path/to/gov2/gov2-corpus/</path>
+<class>trectext</class>
+</corpus>
+</parameters>

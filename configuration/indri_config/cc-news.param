@@ -1,0 +1,11 @@
+<parameters>
+<memory>256G</memory>
+<threads>32</threads>
+<stemmer><name>krovetz</name></stemmer>
+<index>CCNews</index>
+<metadata> <field>docno</field></metadata>
+<corpus>
+<path>/path/to/ccnews/warc</path>
+<class>warc</class>
+</corpus>
+</parameters>

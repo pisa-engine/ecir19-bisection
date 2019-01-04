@@ -1,0 +1,11 @@
+<parameters>
+<memory>256G</memory>
+<index>CW09B</index>
+<threads>32</threads>
+<stemmer><name>krovetz</name></stemmer>
+<metadata><field>docno</field></metadata>
+<corpus>
+<path>/path/to/ClueWeb09/disk1/ClueWeb09_English_1/</path>
+<class>warc</class>
+</corpus>
+</parameters>

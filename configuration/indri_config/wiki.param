@@ -1,0 +1,13 @@
+<parameters>
+<threads>32</threads>
+<memory>128G</memory>
+<storeDocs>true</storeDocs>
+<stemmer><name>krovetz</name></stemmer>
+<metadata> <field>docno</field></metadata>
+<index>WIKI2018</index>
+<corpus>
+<path>/path/to/wikipedia/wikipedia-22052018.txt.gz</path>
+<class>trectext</class>
+</corpus>
+</parameters>
+

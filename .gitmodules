@@ -1,0 +1,8 @@
+[submodule "external/indri"]
+	path = external/indri
+	url = https://github.com/lgrz/indri
+	branch = master
+[submodule "external/pisa"]
+	path = external/pisa
+	url = https://github.com/pisa-engine/pisa
+	branch = master

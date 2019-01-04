@@ -1,0 +1,10 @@
+<parameters>
+<memory>256G</memory>
+<index>NYT</index>
+<threads>32</threads>
+<stemmer><name>krovetz</name></stemmer>
+<metadata><field>docno</field></metadata>
+<corpus>
+<path>/path/to/nyt/nyt-trec-format/</path>
+<class>trectext</class>
+</corpus>
