@@ -38,7 +38,6 @@ The original paper can be found here: [Compressing Graphs and Indexes with Recur
 We thank the authors of this paper for their assistance in our reproducibility study.
 
 
-
 Usage
 ----
 This repository aims to show how we go from end-to-end for our experiments, allowing
@@ -67,7 +66,9 @@ Additional Data
 As mentioned in the paper, two of the collections are generated from dumps that
 are difficult to reproduce. We have archived these collections and we are happy
 to make them available to anyone interested in reproducing our experiments.
-We also retained the URL orderings used, but again, these are too cumbersome for
-uploading in this repo.
 Please email `joel.mackenzie@rmit.edu.au` if you are looking for this data or
 any further assistance with these experiments.
+
+The URL ordering files and the bisection mappings can be found on 
+[Cloudstor.](https://cloudstor.aarnet.edu.au/plus/s/4hMUSxrffM5J2Uq)
+
