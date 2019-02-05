@@ -2,6 +2,10 @@
 
 BASE=`pwd`
 
+# Just in case clone was not recursive
+git submodule init
+git submodule update --recursive
+
 # Indri build
 echo "Build Indri"
 cd $BASE/external/indri/
@@ -31,7 +35,7 @@ cd $BASE/external/pisa
 mkdir build
 cd build
 cmake ..
-make recursive_graph_bisection shuffle_docids create_freq_index
+make recursive_graph_bisection shuffle_docids create_freq_index evaluate_collection_ordering
 
 
 cd $BASE
