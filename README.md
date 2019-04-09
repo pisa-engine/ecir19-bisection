@@ -7,12 +7,17 @@ for your own papers.
 
 Joel Mackenzie, Antonio Mallia, Matthias Petri, J. Shane Culpepper, and Torsten Suel:
 **Compressing Inverted Indexes with Recursive Graph Bisection: A Reproducibility Study.**
-To appear in ECIR, 2019.
+In Proc. ECIR, 2019, 339-352.
 
 ```
-@inproceedings{
-
+@inproceedings{mm+19-ecir,
+ author = {Mackenzie, Joel and Mallia, Antonio and Petri, Matthias and Culpepper, J. Shane and Suel, Torsten},
+ title = {Compressing Inverted Indexes with Recursive Graph Bisection: A Reproducibility Study},
+ booktitle = {Proc. ECIR},
+ year = {2019},
+ pages = {339--352},
 }
+
 ```
 
 Codebase
